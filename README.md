@@ -1,6 +1,6 @@
 # Eval_Summarization
 
-[A pyton package] (https://github.com/Yale-LILY/SummEval)
+[A python package] (https://github.com/Yale-LILY/SummEval)
 
 1. Kryściński, Wojciech, et al. “[Neural text summarization: A critical evaluation.](https://aclanthology.org/D19-1051.pdf)” .
 2. Zhang, Tianyi, et al. “[Benchmarking large language models for news summarization.](https://arxiv.org/pdf/2301.13848.pdf)”. [code](https://github.com/Tiiiger/benchmark_llm_summarization)
