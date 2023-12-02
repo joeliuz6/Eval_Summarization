@@ -1,6 +1,6 @@
 # Eval_Summarization
 
-1. Kryściński, Wojciech, et al. “Neural text summarization: A critical evaluation.” arXiv preprint arXiv:1908.08960 (2019).
+1. Kryściński, Wojciech, et al. “[Neural text summarization: A critical evaluation.](https://aclanthology.org/D19-1051.pdf)” arXiv preprint arXiv:1908.08960 (2019).
 2. Zhang, Tianyi, et al. “Benchmarking large language models for news summarization.” arXiv preprint arXiv:2301.13848 (2023).
 3. Kryściński, Wojciech, et al. “Evaluating the factual consistency of abstractive text summarization.” arXiv preprint arXiv:1910.12840 (2019).
 4. Pagnoni, Artidoro, Vidhisha Balachandran, and Yulia Tsvetkov. “Understanding factuality in abstractive summarization with FRANK: A benchmark for factuality metrics.” arXiv preprint arXiv:2104.13346 (2021).
